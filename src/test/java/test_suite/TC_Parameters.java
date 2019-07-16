@@ -9,7 +9,7 @@ import pages.LoginPage;
 import java.io.IOException;
 
 
-public class TC_DataProvider extends BrowserSetUp  {
+public class TC_Parameters extends BrowserSetUp  {
 
 	@Test
 	@Parameters({"Username","Password"})

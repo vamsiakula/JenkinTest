@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07b7a9d0-08cf-4bfa-b1a3-668e45df511d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Orange HRM XML files/testNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Orange HRM XML files/testNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test_suite/TC_DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test_suite/TC_Parameters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            <state relative-caret-position="458">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -38,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+            <state relative-caret-position="17">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,38 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Orange HRM XML files/testNG.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test_suite/TC_Parameters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test_listeners/ListenerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-219">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test_suite/TC_DataProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,10 +100,10 @@
         <option value="$PROJECT_DIR$/src/test/java/utilities/DataProviderClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_listeners/ListenerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test_suite/TC_DataProvider.java" />
         <option value="$PROJECT_DIR$/Orange HRM XML files/testNG.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test_suite/TC_DataProvider.java" />
       </list>
     </option>
   </component>
@@ -148,83 +128,115 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
-              <item name="Orange HRM XML files" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
+              <item name="Log4j" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test_listeners" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OrangeHrm_DataDriven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeHrm_DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test_suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeHRM_DataDriven_Vamsi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeHRM_DataDriven_Vamsi" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -289,9 +301,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__log4j_example-java-TestNG_OrangeHRM_DataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.15 at 17h 59m 21s.xml">
-      <configuration name="D:/log4j/example-java-TestNG/OrangeHRM_DataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__log4j_example-java-TestNG_OrangeHRM_DataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.15 at 18h 00m 13s.xml">
       <configuration name="D:/log4j/example-java-TestNG/OrangeHRM_DataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
@@ -319,12 +328,14 @@
     <history-entry file="D__log4j_example-java-TestNG_OrangeHRM_DataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.15 at 19h 17m 34s.xml">
       <configuration name="D:/log4j/example-java-TestNG/OrangeHRM_DataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__log4j_example-java-TestNG_OrangeHRM_DataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.16 at 15h 58m 49s.xml">
+      <configuration name="D:/log4j/example-java-TestNG/OrangeHRM_DataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15506808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +344,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,35 +435,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        <state relative-caret-position="458">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DataProviderClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_suite/TC_DataProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DataProviderClass.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -468,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        <state relative-caret-position="17">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -485,8 +477,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Orange HRM XML files/testNG.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_suite/TC_Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
