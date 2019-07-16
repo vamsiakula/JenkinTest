@@ -19,7 +19,7 @@
         <parameter name="Username" value="admin" />
         <parameter name="Password" value="admin123" />
         <classes>
-            <class name="test_suite.TC_DataProvider" />
+            <class name="test_suite.TC_Parameters" />
         </classes>
     </test>
 
@@ -28,7 +28,7 @@
         <parameter name="Username" value="_ohrmSysAdmin_" />
         <parameter name="Password" value="sysadmin" />
         <classes>
-            <class name="test_suite.TC_DataProvider" />
+            <class name="test_suite.TC_Parameters" />
         </classes>
     </test>
 
@@ -37,7 +37,7 @@
     <parameter name="Username" value="linda" />
     <parameter name="Password" value="linda.anderson" />
     <classes>
-        <class name="test_suite.TC_DataProvider" />
+        <class name="test_suite.TC_Parameters" />
     </classes>
     </test>
 
@@ -47,7 +47,7 @@
     <parameter name="Username" value="kevin" />
     <parameter name="Password" value="kevin.mathews" />
     <classes>
-        <class name="test_suite.TC_DataProvider" />
+        <class name="test_suite.TC_Parameters" />
     </classes>
 </test>
 </suite>
