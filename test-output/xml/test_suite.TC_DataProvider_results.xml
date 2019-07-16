@@ -4,13 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="53.970">
+           time="49.794">
   <properties />
   
   
-            <testcase name="login" time="16.643" classname="test_suite.TC_DataProvider" />
-                <testcase name="login" time="14.111" classname="test_suite.TC_DataProvider" />
-                <testcase name="login" time="15.128" classname="test_suite.TC_DataProvider" />
-                <testcase name="login" time="8.088" classname="test_suite.TC_DataProvider" />
+            <testcase name="login" time="24.443" classname="test_suite.TC_DataProvider" />
+                <testcase name="login" time="7.911" classname="test_suite.TC_DataProvider" />
+                <testcase name="login" time="7.820" classname="test_suite.TC_DataProvider" />
+                <testcase name="login" time="9.620" classname="test_suite.TC_DataProvider" />
       
 </testsuite>
