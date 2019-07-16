@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" thread-count="04" >
+
+    <method-selectors>
+        <method-selector>
+            <script language="beanshell"><![CDATA[System.setProperty("testng.metrics.logo",
+             "http://www.zenq.com/wp-content/uploads/2018/04/main-logo.png");return true;]]></script>
+        </method-selector>
+    </method-selectors>
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        <listener class-name="test_listeners.ListenerTest" />
+    </listeners>
+
+    <test name="Orange HRM Regression Test1">
+        <parameter name="browser" value="chrome" />
+        <parameter name="Username" value="admin" />
+        <parameter name="Password" value="admin123" />
+        <classes>
+            <class name="test_suite.TC_DataProvider" />
+        </classes>
+    </test>
+
+    <test name="Orange HRM Regression Test2">
+        <parameter name="browser" value="chrome" />
+        <parameter name="Username" value="_ohrmSysAdmin_" />
+        <parameter name="Password" value="sysadmin" />
+        <classes>
+            <class name="test_suite.TC_DataProvider" />
+        </classes>
+    </test>
+
+    <test name="Orange HRM Regression Test3">
+    <parameter name="browser" value="chrome" />
+    <parameter name="Username" value="linda" />
+    <parameter name="Password" value="linda.anderson" />
+    <classes>
+        <class name="test_suite.TC_DataProvider" />
+    </classes>
+    </test>
+
+    <test name="Orange HRM Regression Test4">
+    <parameter name="browser" value="chrome" />
+
+    <parameter name="Username" value="kevin" />
+    <parameter name="Password" value="kevin.mathews" />
+    <classes>
+        <class name="test_suite.TC_DataProvider" />
+    </classes>
+</test>
+</suite>
