@@ -14,40 +14,12 @@
         <listener class-name="test_listeners.ListenerTest" />
     </listeners>
 
-    <test name="Orange HRM Regression Test1">
+    <test name="Orange HRM Regression Test">
         <parameter name="browser" value="chrome" />
-        <parameter name="Username" value="admin" />
-        <parameter name="Password" value="admin123" />
+
         <classes>
-            <class name="test_suite.TC_DataProvider" />
+            <class name="test_suite.TC_Excel" />
         </classes>
     </test>
 
-    <test name="Orange HRM Regression Test2">
-        <parameter name="browser" value="chrome" />
-        <parameter name="Username" value="_ohrmSysAdmin_" />
-        <parameter name="Password" value="sysadmin" />
-        <classes>
-            <class name="test_suite.TC_DataProvider" />
-        </classes>
-    </test>
-
-    <test name="Orange HRM Regression Test3">
-    <parameter name="browser" value="chrome" />
-    <parameter name="Username" value="linda" />
-    <parameter name="Password" value="linda.anderson" />
-    <classes>
-        <class name="test_suite.TC_DataProvider" />
-    </classes>
-    </test>
-
-    <test name="Orange HRM Regression Test4">
-    <parameter name="browser" value="chrome" />
-
-    <parameter name="Username" value="kevin" />
-    <parameter name="Password" value="kevin.mathews" />
-    <classes>
-        <class name="test_suite.TC_DataProvider" />
-    </classes>
-</test>
 </suite>

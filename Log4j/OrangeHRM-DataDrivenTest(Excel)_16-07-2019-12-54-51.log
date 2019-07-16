@@ -1,0 +1,5 @@
+2019-07-16 12:54:51 INFO  Log:27 - test case started
+2019-07-16 12:54:51 INFO  Log:27 - Launched Chrome Browser
+2019-07-16 12:54:56 WARN  Log:32 - The name of the testcase failed is :login
+2019-07-16 12:54:56 INFO  Log:27 - Closed the Browser
+2019-07-16 12:54:56 INFO  Log:27 - test case ended

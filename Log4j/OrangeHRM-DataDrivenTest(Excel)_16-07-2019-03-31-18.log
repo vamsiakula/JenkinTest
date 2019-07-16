@@ -1,0 +1,30 @@
+2019-07-16 15:31:18 INFO  Log:27 - test case started
+2019-07-16 15:31:18 INFO  Log:27 - Launched Chrome Browser
+2019-07-16 15:31:23 INFO  Log:27 - The URL of Orange HRM is loaded.
+2019-07-16 15:31:34 INFO  Log:27 - Login Page of Orange HRM is displayed.
+2019-07-16 15:31:38 INFO  Log:27 - Enter username:admin
+2019-07-16 15:31:38 INFO  Log:27 - Enter password:admin123
+2019-07-16 15:31:38 INFO  Log:27 - Login credentails are provided
+2019-07-16 15:31:43 INFO  Log:27 - Login button is clicked
+2019-07-16 15:31:43 INFO  Log:27 - Arrow button is clicked
+2019-07-16 15:31:43 INFO  Log:27 - Logout button is clicked
+2019-07-16 15:31:49 INFO  Log:27 - Enter username:_ohrmSysAdmin_
+2019-07-16 15:31:49 INFO  Log:27 - Enter password:sysadmin
+2019-07-16 15:31:49 INFO  Log:27 - Login credentails are provided
+2019-07-16 15:31:52 INFO  Log:27 - Login button is clicked
+2019-07-16 15:31:52 INFO  Log:27 - Arrow button is clicked
+2019-07-16 15:31:52 INFO  Log:27 - Logout button is clicked
+2019-07-16 15:31:58 INFO  Log:27 - Enter username:linda
+2019-07-16 15:31:58 INFO  Log:27 - Enter password:linda.anderson
+2019-07-16 15:31:58 INFO  Log:27 - Login credentails are provided
+2019-07-16 15:32:01 INFO  Log:27 - Login button is clicked
+2019-07-16 15:32:01 INFO  Log:27 - Arrow button is clicked
+2019-07-16 15:32:01 INFO  Log:27 - Logout button is clicked
+2019-07-16 15:32:06 INFO  Log:27 - Enter username:kevin
+2019-07-16 15:32:06 INFO  Log:27 - Enter password:kevin.mathews
+2019-07-16 15:32:06 INFO  Log:27 - Login credentails are provided
+2019-07-16 15:32:09 INFO  Log:27 - Login button is clicked
+2019-07-16 15:32:10 INFO  Log:27 - Arrow button is clicked
+2019-07-16 15:32:10 INFO  Log:27 - Logout button is clicked
+2019-07-16 15:32:12 INFO  Log:27 - Closed the Browser
+2019-07-16 15:32:12 INFO  Log:27 - test case ended

@@ -1,0 +1,9 @@
+2019-07-16 15:04:18 INFO  Log:27 - test case started
+2019-07-16 15:04:18 INFO  Log:27 - Launched Chrome Browser
+2019-07-16 15:04:23 INFO  Log:27 - The URL of Orange HRM is loaded.
+2019-07-16 15:04:27 INFO  Log:27 - Enter username:kevin
+2019-07-16 15:04:27 INFO  Log:27 - Enter password:kevin.mathews
+2019-07-16 15:04:27 INFO  Log:27 - Login credentails are provided
+2019-07-16 15:04:37 INFO  Log:27 - Login button is clicked
+2019-07-16 15:04:37 INFO  Log:27 - Closed the Browser
+2019-07-16 15:04:38 INFO  Log:27 - test case ended

@@ -1,0 +1,14 @@
+2019-07-16 15:25:23 INFO  Log:27 - test case started
+2019-07-16 15:25:23 INFO  Log:27 - Launched Chrome Browser
+2019-07-16 15:25:30 INFO  Log:27 - The URL of Orange HRM is loaded.
+2019-07-16 15:25:40 INFO  Log:27 - Login Page of Orange HRM is displayed.
+2019-07-16 15:25:40 INFO  Log:27 - Enter username:admin
+2019-07-16 15:25:40 INFO  Log:27 - Enter password:admin123
+2019-07-16 15:25:40 INFO  Log:27 - Login credentails are provided
+2019-07-16 15:25:45 INFO  Log:27 - Login button is clicked
+2019-07-16 15:25:45 INFO  Log:27 - Arrow button is clicked
+2019-07-16 15:25:45 INFO  Log:27 - Logout button is clicked
+2019-07-16 15:25:48 INFO  Log:27 - The URL of Orange HRM is loaded.
+2019-07-16 15:25:51 WARN  Log:32 - The name of the testcase failed is :login
+2019-07-16 15:25:51 INFO  Log:27 - Closed the Browser
+2019-07-16 15:25:51 INFO  Log:27 - test case ended
